@@ -1,4 +1,4 @@
-Note: This data is made by ChatGPT and can be used debugging and testing 
+Note: This data is made by YouTube video and can be used debugging and testing 
 n 0 https://en.wikipedia.org/wiki/Artificial_intelligence
 n 1 https://en.wikipedia.org/wiki/Machine_learning
 n 2 https://en.wikipedia.org/wiki/Neural_network
