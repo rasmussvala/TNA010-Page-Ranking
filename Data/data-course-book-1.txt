@@ -1,0 +1,19 @@
+Note: This is just a text to follow the same format for our implementation 
+n 0 Webpage_1
+n 1 Webpage_2
+n 2 Webpage_3
+n 3 Webpage_4
+n 4 Webpage_5
+n 5 Webpage_6
+e 0 1
+e 0 3
+e 0 4
+e 1 0
+e 1 2
+e 1 4
+e 2 5
+e 4 2
+e 4 3
+e 4 5
+e 5 2
+e 5 4
